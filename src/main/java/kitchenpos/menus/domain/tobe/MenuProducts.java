@@ -1,7 +1,6 @@
 package kitchenpos.menus.domain.tobe;
 
 import jakarta.persistence.CascadeType;
-import jakarta.persistence.ElementCollection;
 import jakarta.persistence.Embeddable;
 import jakarta.persistence.ForeignKey;
 import jakarta.persistence.JoinColumn;
